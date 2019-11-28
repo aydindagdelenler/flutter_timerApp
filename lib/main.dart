@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'dart:math' as math;
 
-void main() => runApp(MyApp());
+void main() => runApp(MyApp2());
 
-
-class MyApp extends StatelessWidget {
+class MyApp2 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
